@@ -75,7 +75,7 @@ footer {
 
 @media (max-width: 350px) {
   #main {
-    padding: 20px 1%;
+    padding: 20px 0.5%;
   }
 }
 
