@@ -43,7 +43,7 @@ header h1, header p {
   line-height: 20px;
 }
 
-#main {
+#tribute-info {
   padding: 20px 10%;
 }
 
@@ -74,8 +74,14 @@ footer {
 }
 
 @media (max-width: 350px) {
-  #main {
-    padding: 20px 0.5%;
+  #title {
+    font-size: 30px;
+  }
+  #img-caption {
+    font-size: 14px;
+  }
+  #tribute-info {
+    padding: 20px 0;
   }
 }
 
